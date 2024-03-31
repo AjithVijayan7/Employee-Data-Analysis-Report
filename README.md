@@ -1,11 +1,11 @@
 # Employee-Data-Analysis-Report
 
 1. Heading and Problem Statement:
-The objective of this project is to analyze employee data and gain insights into various aspects such as team distribution, position segmentation, age groups, and salary expenditure. Specifically, we aim to understand the organizational structure, identify patterns, and provide actionable recommendations.
+The objective of this project is to analyze employee data and gain insights into various aspects such as team distribution, position segmentation, age groups, and salary expenditure. Specifically, I aim to understand the organizational structure, identify patterns, and provide actionable recommendations.
 
 
 2. Expected Outcome:
-Our expected outcome is to develop a comprehensive understanding of the employee dataset and present findings in a clear and informative manner. Additionally, we will create visualizations to enhance the communication of insights.
+Our expected outcome is to develop a comprehensive understanding of the employee dataset and present findings in a clear and informative manner. Additionally, I will create visualizations to enhance the communication of insights.
 
 
 
